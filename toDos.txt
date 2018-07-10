@@ -1,0 +1,15 @@
+dinamical load ui modules 		1	investigation
+offline sync mode ?			2	investigation + implementare
+google api integrare sequrity Oauth.	3	investigation + implementare
+graphs creating and optimizing		4	investigation 
+modularity  . expand 			5	investigation + implementare
+
+-----------
+ASP Core  					documentation
+
+https://www.js-tutorials.com/javascript-tutorial/nodejs-example-upload-store-image-mysql-express-js/
+https://stackoverflow.com/questions/39297219/angular2-dynamically-load-component-from-module
+https://stackoverflow.com/questions/39410355/how-to-use-variable-to-define-templateurl-in-angular2#answer-39411464
+https://javebratt.com/offline-angularfire2/
+https://jakearchibald.com/2014/offline-cookbook/
+https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers
